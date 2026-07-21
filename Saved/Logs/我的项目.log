@@ -1445,3 +1445,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.21-08.39.24:329][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.07.21-08.39.24:329][716]AssetCheck: /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter 正在验证资产
 [2026.07.21-08.39.27:420][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.07.21-08.43.24:402][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.21-08.43.24:555][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter] ([2] browsable assets)...
+[2026.07.21-08.43.24:567][192]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.BP_SideScrollingCharacter]
+[2026.07.21-08.43.24:567][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter]
+[2026.07.21-08.43.24:623][192]LogSavePackage: Moving output files for package: /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter
+[2026.07.21-08.43.24:624][192]LogSavePackage: Moving '../../../../../../Users/W/Desktop/我的项目/Saved/BP_SideScrollingCharacter985CE78742FDB595296B4BB5365CD411.tmp' to '../../../../../../Users/W/Desktop/我的项目/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset'
+[2026.07.21-08.43.24:641][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.151 ms (total: 2.49 sec)
+[2026.07.21-08.43.24:708][192]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.21-08.43.24:708][192]LogContentValidation: Enabled validators:
+[2026.07.21-08.43.24:708][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.21-08.43.24:708][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.21-08.43.24:708][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.21-08.43.24:708][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.21-08.43.24:708][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.21-08.43.24:708][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.21-08.43.24:708][192]AssetCheck: /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter 正在验证资产
+[2026.07.21-08.43.38:710][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.21-08.43.38:898][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter] ([2] browsable assets)...
+[2026.07.21-08.43.38:898][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter]
+[2026.07.21-08.43.38:986][704]LogSavePackage: Moving output files for package: /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter
+[2026.07.21-08.43.38:988][704]LogSavePackage: Moving '../../../../../../Users/W/Desktop/我的项目/Saved/BP_SideScrollingCharacter350E131C4349F6D3255415912AC286BB.tmp' to '../../../../../../Users/W/Desktop/我的项目/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset'
+[2026.07.21-08.43.39:014][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 303.833 ms (total: 2.79 sec)
+[2026.07.21-08.43.39:099][704]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.21-08.43.39:099][704]LogContentValidation: Enabled validators:
+[2026.07.21-08.43.39:099][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.21-08.43.39:099][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.21-08.43.39:099][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.21-08.43.39:099][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.21-08.43.39:099][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.21-08.43.39:099][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.21-08.43.39:099][704]AssetCheck: /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter 正在验证资产
+[2026.07.21-08.46.20:640][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.21-08.46.20:784][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter] ([2] browsable assets)...
+[2026.07.21-08.46.20:811][ 47]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.BP_SideScrollingCharacter]
+[2026.07.21-08.46.20:811][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter]
+[2026.07.21-08.46.20:922][ 47]LogSavePackage: Moving output files for package: /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter
+[2026.07.21-08.46.20:924][ 47]LogSavePackage: Moving '../../../../../../Users/W/Desktop/我的项目/Saved/BP_SideScrollingCharacter68E42A474124CD4CD2C4B6A654EEE769.tmp' to '../../../../../../Users/W/Desktop/我的项目/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset'
+[2026.07.21-08.46.20:955][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 313.762 ms (total: 3.10 sec)
+[2026.07.21-08.46.21:084][ 47]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.21-08.46.21:084][ 47]LogContentValidation: Enabled validators:
+[2026.07.21-08.46.21:084][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.21-08.46.21:084][ 47]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.21-08.46.21:085][ 47]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.21-08.46.21:085][ 47]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.21-08.46.21:085][ 47]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.21-08.46.21:085][ 47]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.21-08.46.21:085][ 47]AssetCheck: /Game/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter 正在验证资产
+[2026.07.21-08.46.22:759][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.07.21-08.46.23:823][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.07.21-08.47.23:120][467]LogDerivedDataCache: C:/Users/W/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.21-08.48.00:840][ 35]LogSlate: Window 'BP_SideScrollingCharacter' being destroyed
+[2026.07.21-08.48.00:911][ 35]LogSlate: Window 'BP_SideScrollingCharacter' being destroyed
+[2026.07.21-08.48.00:924][ 35]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.07.21-08.48.00:924][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.21-08.48.01:148][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
