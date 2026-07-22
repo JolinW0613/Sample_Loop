@@ -6410,3 +6410,423 @@ Script Stack (0 frames) :
 [2026.07.22-07.19.18:434][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.07.22-07.19.18:435][  3]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2026.07.22-07.19.18:464][  3]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.22-07.25.51:068][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.07.22-07.25.51:072][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.019
+[2026.07.22-07.25.51:072][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Pearls] ([1] browsable assets)...
+[2026.07.22-07.25.51:273][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Pearls.PIRATE_PACK-Pearls]
+[2026.07.22-07.25.51:273][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Pearls]
+[2026.07.22-07.25.51:283][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Pearls_Auto2
+[2026.07.22-07.25.51:283][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Pearls_Auto287A3DBE2403F534BB23D02B936360837.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Pearls_Auto2.uasset'
+[2026.07.22-07.25.51:284][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-FishingRodStanding] ([1] browsable assets)...
+[2026.07.22-07.25.51:295][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-FishingRodStanding.PIRATE_PACK-FishingRodStanding]
+[2026.07.22-07.25.51:295][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-FishingRodStanding]
+[2026.07.22-07.25.51:301][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-FishingRodStanding_Auto2
+[2026.07.22-07.25.51:301][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-FishingRodStanding_A7715A71B4171547937817A9CFFEA0E08.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-FishingRodStanding_Auto2.uasset'
+[2026.07.22-07.25.51:303][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GlassBottle] ([1] browsable assets)...
+[2026.07.22-07.25.51:309][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-GlassBottle.PIRATE_PACK-GlassBottle]
+[2026.07.22-07.25.51:309][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GlassBottle]
+[2026.07.22-07.25.51:317][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-GlassBottle_Auto2
+[2026.07.22-07.25.51:317][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GlassBottle_Auto22EA8EEFF473BC284F0C5EB82884FC1DE.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-GlassBottle_Auto2.uasset'
+[2026.07.22-07.25.51:318][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Mug] ([1] browsable assets)...
+[2026.07.22-07.25.51:325][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Mug.PIRATE_PACK-Mug]
+[2026.07.22-07.25.51:325][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Mug]
+[2026.07.22-07.25.51:333][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Mug_Auto2
+[2026.07.22-07.25.51:333][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Mug_Auto29E1309EE4BA6EC878A64DEB9B0CFAB83.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Mug_Auto2.uasset'
+[2026.07.22-07.25.51:334][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-MoneyBag] ([1] browsable assets)...
+[2026.07.22-07.25.51:340][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-MoneyBag.PIRATE_PACK-MoneyBag]
+[2026.07.22-07.25.51:340][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-MoneyBag]
+[2026.07.22-07.25.51:348][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-MoneyBag_Auto2
+[2026.07.22-07.25.51:348][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-MoneyBag_Auto298566F7A4F30C6E0BA19C09E62B580C1.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-MoneyBag_Auto2.uasset'
+[2026.07.22-07.25.51:349][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GlassBottleCover] ([1] browsable assets)...
+[2026.07.22-07.25.51:358][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-GlassBottleCover.PIRATE_PACK-GlassBottleCover]
+[2026.07.22-07.25.51:358][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GlassBottleCover]
+[2026.07.22-07.25.51:365][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-GlassBottleCover_Auto2
+[2026.07.22-07.25.51:365][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GlassBottleCover_AutE36382014CD0251880C73A91857258A6.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-GlassBottleCover_Auto2.uasset'
+[2026.07.22-07.25.51:366][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-HookHand] ([1] browsable assets)...
+[2026.07.22-07.25.51:373][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-HookHand.PIRATE_PACK-HookHand]
+[2026.07.22-07.25.51:373][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-HookHand]
+[2026.07.22-07.25.51:380][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-HookHand_Auto2
+[2026.07.22-07.25.51:380][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-HookHand_Auto26F81DB564DF13A18C095DC98677418C7.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-HookHand_Auto2.uasset'
+[2026.07.22-07.25.51:381][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SmallScope] ([1] browsable assets)...
+[2026.07.22-07.25.51:388][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-SmallScope.PIRATE_PACK-SmallScope]
+[2026.07.22-07.25.51:388][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SmallScope]
+[2026.07.22-07.25.51:394][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-SmallScope_Auto2
+[2026.07.22-07.25.51:394][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SmallScope_Auto202826D25416D35B314B6FBBFFA47A407.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-SmallScope_Auto2.uasset'
+[2026.07.22-07.25.51:396][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-RowBoatOars] ([1] browsable assets)...
+[2026.07.22-07.25.51:403][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-RowBoatOars.PIRATE_PACK-RowBoatOars]
+[2026.07.22-07.25.51:403][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-RowBoatOars]
+[2026.07.22-07.25.51:411][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-RowBoatOars_Auto2
+[2026.07.22-07.25.51:411][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-RowBoatOars_Auto26C46237C4A0FE2BDC875F88B8A756CFC.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-RowBoatOars_Auto2.uasset'
+[2026.07.22-07.25.51:412][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-RowBoat] ([1] browsable assets)...
+[2026.07.22-07.25.51:418][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-RowBoat.PIRATE_PACK-RowBoat]
+[2026.07.22-07.25.51:418][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-RowBoat]
+[2026.07.22-07.25.51:427][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-RowBoat_Auto2
+[2026.07.22-07.25.51:427][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-RowBoat_Auto2321F06D04AFA493FB74203B844AE933C.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-RowBoat_Auto2.uasset'
+[2026.07.22-07.25.51:428][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Ring] ([1] browsable assets)...
+[2026.07.22-07.25.51:434][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Ring.PIRATE_PACK-Ring]
+[2026.07.22-07.25.51:435][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Ring]
+[2026.07.22-07.25.51:441][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Ring_Auto2
+[2026.07.22-07.25.51:441][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Ring_Auto205E7E638428E9E4AA500A081E785CDE6.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Ring_Auto2.uasset'
+[2026.07.22-07.25.51:443][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Ruby] ([1] browsable assets)...
+[2026.07.22-07.25.51:450][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Ruby.PIRATE_PACK-Ruby]
+[2026.07.22-07.25.51:450][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Ruby]
+[2026.07.22-07.25.51:457][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Ruby_Auto2
+[2026.07.22-07.25.51:457][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Ruby_Auto2FA43B3254575AC91D04ECAAC86ADBA6D.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Ruby_Auto2.uasset'
+[2026.07.22-07.25.51:458][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-PegLeg] ([1] browsable assets)...
+[2026.07.22-07.25.51:464][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-PegLeg.PIRATE_PACK-PegLeg]
+[2026.07.22-07.25.51:464][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-PegLeg]
+[2026.07.22-07.25.51:472][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-PegLeg_Auto2
+[2026.07.22-07.25.51:472][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-PegLeg_Auto214CE8C8A4AB1D0F1EF777CB33A94088F.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-PegLeg_Auto2.uasset'
+[2026.07.22-07.25.51:473][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-FishingStandNet] ([1] browsable assets)...
+[2026.07.22-07.25.51:480][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-FishingStandNet.PIRATE_PACK-FishingStandNet]
+[2026.07.22-07.25.51:480][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-FishingStandNet]
+[2026.07.22-07.25.51:488][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-FishingStandNet_Auto2
+[2026.07.22-07.25.51:488][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-FishingStandNet_Auto3400E29E4B30F88BF3896F83C2D7B17E.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-FishingStandNet_Auto2.uasset'
+[2026.07.22-07.25.51:489][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-LongScope] ([1] browsable assets)...
+[2026.07.22-07.25.51:496][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-LongScope.PIRATE_PACK-LongScope]
+[2026.07.22-07.25.51:496][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-LongScope]
+[2026.07.22-07.25.51:503][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-LongScope_Auto2
+[2026.07.22-07.25.51:503][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-LongScope_Auto26444CB204879D8A57D07E79873F34F98.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-LongScope_Auto2.uasset'
+[2026.07.22-07.25.51:505][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-FishingDry] ([1] browsable assets)...
+[2026.07.22-07.25.51:512][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-FishingDry.PIRATE_PACK-FishingDry]
+[2026.07.22-07.25.51:512][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-FishingDry]
+[2026.07.22-07.25.51:518][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-FishingDry_Auto2
+[2026.07.22-07.25.51:519][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-FishingDry_Auto2F58C479844B209526AE252B402E3516F.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-FishingDry_Auto2.uasset'
+[2026.07.22-07.25.51:519][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Gun] ([1] browsable assets)...
+[2026.07.22-07.25.51:532][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Gun.PIRATE_PACK-Gun]
+[2026.07.22-07.25.51:532][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Gun]
+[2026.07.22-07.25.51:539][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Gun_Auto2
+[2026.07.22-07.25.51:539][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Gun_Auto2F1FA3F8647EF3E4FD5E8CFA745158E80.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Gun_Auto2.uasset'
+[2026.07.22-07.25.51:541][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Gun_001] ([1] browsable assets)...
+[2026.07.22-07.25.51:548][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Gun_001.PIRATE_PACK-Gun_001]
+[2026.07.22-07.25.51:548][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Gun_001]
+[2026.07.22-07.25.51:554][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Gun_001_Auto2
+[2026.07.22-07.25.51:554][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Gun_001_Auto227B7E70149D4348CBB051FBD7405F53E.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Gun_001_Auto2.uasset'
+[2026.07.22-07.25.51:556][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open] ([1] browsable assets)...
+[2026.07.22-07.25.51:563][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open.PIRATE_PACK-SmallCreate-Open]
+[2026.07.22-07.25.51:563][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open]
+[2026.07.22-07.25.51:570][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open_Auto2
+[2026.07.22-07.25.51:570][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SmallCreate-Open_AutEAA96FBB4A5335A9983900BC54BF346F.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open_Auto2.uasset'
+[2026.07.22-07.25.51:571][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed] ([1] browsable assets)...
+[2026.07.22-07.25.51:578][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed.PIRATE_PACK-SmallCreate-Closed]
+[2026.07.22-07.25.51:578][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed]
+[2026.07.22-07.25.51:585][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed_Auto2
+[2026.07.22-07.25.51:585][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SmallCreate-Closed_A1B71129C400106DC4B91599DA19951FC.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed_Auto2.uasset'
+[2026.07.22-07.25.51:586][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile] ([1] browsable assets)...
+[2026.07.22-07.25.51:593][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile.PIRATE_PACK-GoldBar_Pile]
+[2026.07.22-07.25.51:593][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile]
+[2026.07.22-07.25.51:601][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile_Auto2
+[2026.07.22-07.25.51:601][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GoldBar_Pile_Auto28501F51543DCB989BF79A2B6D415D7FC.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile_Auto2.uasset'
+[2026.07.22-07.25.51:602][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GoldBar] ([1] browsable assets)...
+[2026.07.22-07.25.51:608][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-GoldBar.PIRATE_PACK-GoldBar]
+[2026.07.22-07.25.51:608][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GoldBar]
+[2026.07.22-07.25.51:615][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-GoldBar_Auto2
+[2026.07.22-07.25.51:615][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GoldBar_Auto2812FD969409388F92D81F997A0DA3096.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-GoldBar_Auto2.uasset'
+[2026.07.22-07.25.51:616][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall] ([1] browsable assets)...
+[2026.07.22-07.25.51:624][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall.PIRATE_PACK-GoldBar_Wall]
+[2026.07.22-07.25.51:624][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall]
+[2026.07.22-07.25.51:632][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall_Auto2
+[2026.07.22-07.25.51:632][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GoldBar_Wall_Auto2867B8EB244809D7AA8CA639493985EA3.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall_Auto2.uasset'
+[2026.07.22-07.25.51:633][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Key] ([1] browsable assets)...
+[2026.07.22-07.25.51:640][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Key.PIRATE_PACK-Key]
+[2026.07.22-07.25.51:640][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Key]
+[2026.07.22-07.25.51:647][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Key_Auto2
+[2026.07.22-07.25.51:647][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Key_Auto21BFC20AC4FEE7DB88B6A6CA1889683D7.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Key_Auto2.uasset'
+[2026.07.22-07.25.51:648][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Skull] ([1] browsable assets)...
+[2026.07.22-07.25.51:655][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-Skull.PIRATE_PACK-Skull]
+[2026.07.22-07.25.51:655][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Skull]
+[2026.07.22-07.25.51:663][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-Skull_Auto2
+[2026.07.22-07.25.51:663][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Skull_Auto203506204424695CD4A39A5A02C70EC98.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-Skull_Auto2.uasset'
+[2026.07.22-07.25.51:664][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-LiqurBottle] ([1] browsable assets)...
+[2026.07.22-07.25.51:670][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-LiqurBottle.PIRATE_PACK-LiqurBottle]
+[2026.07.22-07.25.51:670][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-LiqurBottle]
+[2026.07.22-07.25.51:678][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-LiqurBottle_Auto2
+[2026.07.22-07.25.51:678][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-LiqurBottle_Auto2A57D8A6D405661322B37C489DB4D796A.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-LiqurBottle_Auto2.uasset'
+[2026.07.22-07.25.51:678][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SkullKey] ([1] browsable assets)...
+[2026.07.22-07.25.51:685][190]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Props_001/PIRATE_PACK-SkullKey.PIRATE_PACK-SkullKey]
+[2026.07.22-07.25.51:685][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SkullKey]
+[2026.07.22-07.25.51:694][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Props_001/PIRATE_PACK-SkullKey_Auto2
+[2026.07.22-07.25.51:694][190]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SkullKey_Auto2E73CB56A4F7683F1B4BBAE9351EF9831.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/Autosaves/Game/Models/Props_001/PIRATE_PACK-SkullKey_Auto2.uasset'
+[2026.07.22-07.25.51:694][190]LogFileHelpers: Auto-saving content packages took 0.623
+[2026.07.22-07.28.56:246][900]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.07.22-07.28.56:250][900]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.07.22-07.28.56:250][900]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.07.22-07.28.56:251][900]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 979 us (total: 4.765 ms)
+[2026.07.22-07.28.56:251][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.07.22-07.28.56:251][900]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2026.07.22-07.28.56:254][900]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.07.22-07.28.56:271][901]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.07.22-07.28.56:280][901]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.07.22-07.28.56:281][901]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.566 ms (total: 6.605 ms)
+[2026.07.22-07.28.56:281][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009675s)
+[2026.07.22-07.28.56:281][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.009723s)
+[2026.07.22-07.28.56:301][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.07.22-07.28.56:305][901]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.07.22-07.28.56:306][901]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.07.22-07.28.56:306][901]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.07.22-07.28.56:306][901]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.07.22-07.28.56:306][901]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.07.22-07.28.56:308][901]LogWorldPartition: Display: WorldPartition initialize took 1.885 ms (total: 90.724 ms)
+[2026.07.22-07.28.56:308][901]LogPlayLevel: PIE: World Init took: (0.003706s)
+[2026.07.22-07.28.56:309][901]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.07.22-07.28.56:309][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.07.22-07.28.56:309][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.07.22-07.28.56:309][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.07.22-07.28.56:309][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.07.22-07.28.56:309][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.07.22-07.28.56:309][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.07.22-07.28.56:309][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.07.22-07.28.56:309][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.07.22-07.28.56:309][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.07.22-07.28.56:309][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.07.22-07.28.56:309][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.07.22-07.28.56:311][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.07.22-07.28.56:329][901]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.07.22-07.28.56:329][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.07.22-07.28.56:329][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.07.22-07.28.56:329][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.07.22-07.28.56:330][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.07.22-07.28.56:330][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.07.22-07.28.56:331][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.07.22-07.28.56:331][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.07.22-07.28.56:331][901]LogInit: FAudioDevice initialized with ID 6.
+[2026.07.22-07.28.56:331][901]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2026.07.22-07.28.56:331][901]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.07.22-07.28.56:337][901]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.07.22-07.28.56:340][901]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.07.22-00.28.56
+[2026.07.22-07.28.56:340][901]LogWorld: Bringing up level for play took: 0.003662
+[2026.07.22-07.28.56:344][901]PIE: Server logged in
+[2026.07.22-07.28.56:348][901]PIE: Play in editor total start time 0.097 seconds.
+[2026.07.22-07.28.56:392][902]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.22-07.30.18:274][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.22-07.30.18:274][810]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.07.22-07.30.18:274][810]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.07.22-07.30.18:276][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.22-07.30.18:276][810]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.07.22-07.30.18:278][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.07.22-07.30.18:280][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.22-07.30.18:293][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.07.22-07.30.18:293][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.07.22-07.30.18:293][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.07.22-07.30.18:296][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.07.22-07.30.18:300][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.07.22-07.30.18:303][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.07.22-07.30.18:366][811]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.07.22-07.35.11:740][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.07.22-07.35.13:012][408]LogSlate: Window 'Save Content' being destroyed
+[2026.07.22-07.35.13:068][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.22-07.35.13:134][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-FishingDry] ([1] browsable assets)...
+[2026.07.22-07.35.13:134][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-FishingDry]
+[2026.07.22-07.35.13:141][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-FishingDry
+[2026.07.22-07.35.13:143][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-FishingDry9D07DA6642FBF882898B0DA6DEC20E43.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-FishingDry.uasset'
+[2026.07.22-07.35.13:144][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-FishingRodStanding] ([1] browsable assets)...
+[2026.07.22-07.35.13:144][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-FishingRodStanding]
+[2026.07.22-07.35.13:151][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-FishingRodStanding
+[2026.07.22-07.35.13:151][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-FishingRodStanding89D392A84E936868F273428348E4F157.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-FishingRodStanding.uasset'
+[2026.07.22-07.35.13:154][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-FishingStandNet] ([1] browsable assets)...
+[2026.07.22-07.35.13:154][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-FishingStandNet]
+[2026.07.22-07.35.13:161][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-FishingStandNet
+[2026.07.22-07.35.13:161][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-FishingStandNetDEDB7AD2457B98FED9F436899EA20199.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-FishingStandNet.uasset'
+[2026.07.22-07.35.13:162][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GlassBottle] ([1] browsable assets)...
+[2026.07.22-07.35.13:162][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GlassBottle]
+[2026.07.22-07.35.13:169][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-GlassBottle
+[2026.07.22-07.35.13:169][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GlassBottle170DC74D400B8B4BFAFB788529A92F79.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-GlassBottle.uasset'
+[2026.07.22-07.35.13:170][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GlassBottleCover] ([1] browsable assets)...
+[2026.07.22-07.35.13:170][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GlassBottleCover]
+[2026.07.22-07.35.13:178][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-GlassBottleCover
+[2026.07.22-07.35.13:178][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GlassBottleCover3319F6CB4957385DABC5F6BE3D79CA5D.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-GlassBottleCover.uasset'
+[2026.07.22-07.35.13:179][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GoldBar] ([1] browsable assets)...
+[2026.07.22-07.35.13:179][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GoldBar]
+[2026.07.22-07.35.13:179][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-GoldBar" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-GoldBar.uasset" SILENT=true
+[2026.07.22-07.35.13:186][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-GoldBar
+[2026.07.22-07.35.13:186][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GoldBar637C601343114CDDB9AB1DB2885AB2A3.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-GoldBar.uasset'
+[2026.07.22-07.35.13:188][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile] ([1] browsable assets)...
+[2026.07.22-07.35.13:188][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile]
+[2026.07.22-07.35.13:194][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile
+[2026.07.22-07.35.13:194][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GoldBar_Pile178AAB9A472421E377D459AAB4EAD398.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-GoldBar_Pile.uasset'
+[2026.07.22-07.35.13:195][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall] ([1] browsable assets)...
+[2026.07.22-07.35.13:195][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall]
+[2026.07.22-07.35.13:202][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall
+[2026.07.22-07.35.13:202][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GoldBar_Wall37DDA3774980A3FA30C0DD955F3C168D.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-GoldBar_Wall.uasset'
+[2026.07.22-07.35.13:204][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Gun] ([1] browsable assets)...
+[2026.07.22-07.35.13:204][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Gun]
+[2026.07.22-07.35.13:204][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Gun" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Gun.uasset" SILENT=true
+[2026.07.22-07.35.13:211][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Gun
+[2026.07.22-07.35.13:211][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-GunEEF1583C4F47545BE13A028F62C4F981.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Gun.uasset'
+[2026.07.22-07.35.13:213][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Gun_001] ([1] browsable assets)...
+[2026.07.22-07.35.13:213][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Gun_001]
+[2026.07.22-07.35.13:213][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Gun_001" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Gun_001.uasset" SILENT=true
+[2026.07.22-07.35.13:221][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Gun_001
+[2026.07.22-07.35.13:221][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Gun_00177785BCA4D0CBF12361F53B03807A63F.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Gun_001.uasset'
+[2026.07.22-07.35.13:222][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-HookHand] ([1] browsable assets)...
+[2026.07.22-07.35.13:222][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-HookHand]
+[2026.07.22-07.35.13:228][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-HookHand
+[2026.07.22-07.35.13:228][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-HookHand55DBE3A14D049142861B769FFBCFAA2F.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-HookHand.uasset'
+[2026.07.22-07.35.13:229][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Key] ([1] browsable assets)...
+[2026.07.22-07.35.13:229][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Key]
+[2026.07.22-07.35.13:229][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Key" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Key.uasset" SILENT=true
+[2026.07.22-07.35.13:236][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Key
+[2026.07.22-07.35.13:236][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Key751930D94B2ABE9CC767CBA4ADC55781.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Key.uasset'
+[2026.07.22-07.35.13:238][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-LiqurBottle] ([1] browsable assets)...
+[2026.07.22-07.35.13:238][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-LiqurBottle]
+[2026.07.22-07.35.13:244][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-LiqurBottle
+[2026.07.22-07.35.13:244][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-LiqurBottleD9BAFAC3462C96EF3236CAA7DA0737D4.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-LiqurBottle.uasset'
+[2026.07.22-07.35.13:246][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-LongScope] ([1] browsable assets)...
+[2026.07.22-07.35.13:246][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-LongScope]
+[2026.07.22-07.35.13:253][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-LongScope
+[2026.07.22-07.35.13:253][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-LongScopeE02A73EA4FFCD43BAD6BDDBEDACDAACC.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-LongScope.uasset'
+[2026.07.22-07.35.13:255][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-MoneyBag] ([1] browsable assets)...
+[2026.07.22-07.35.13:255][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-MoneyBag]
+[2026.07.22-07.35.13:263][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-MoneyBag
+[2026.07.22-07.35.13:263][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-MoneyBag913E426946927F18BA398CBF2573CA81.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-MoneyBag.uasset'
+[2026.07.22-07.35.13:264][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Mug] ([1] browsable assets)...
+[2026.07.22-07.35.13:264][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Mug]
+[2026.07.22-07.35.13:264][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Mug" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Mug.uasset" SILENT=true
+[2026.07.22-07.35.13:270][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Mug
+[2026.07.22-07.35.13:271][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Mug1F13C0CC42BA9F524CF0CEBE812DD25B.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Mug.uasset'
+[2026.07.22-07.35.13:272][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Pearls] ([1] browsable assets)...
+[2026.07.22-07.35.13:272][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Pearls]
+[2026.07.22-07.35.13:272][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Pearls" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Pearls.uasset" SILENT=true
+[2026.07.22-07.35.13:280][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Pearls
+[2026.07.22-07.35.13:280][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-PearlsEC626ABF4E228D0712EA0BB120AEF604.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Pearls.uasset'
+[2026.07.22-07.35.13:281][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-PegLeg] ([1] browsable assets)...
+[2026.07.22-07.35.13:281][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-PegLeg]
+[2026.07.22-07.35.13:281][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-PegLeg" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-PegLeg.uasset" SILENT=true
+[2026.07.22-07.35.13:287][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-PegLeg
+[2026.07.22-07.35.13:287][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-PegLeg1D86992246780508E973D39BE2418592.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-PegLeg.uasset'
+[2026.07.22-07.35.13:288][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Ring] ([1] browsable assets)...
+[2026.07.22-07.35.13:288][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Ring]
+[2026.07.22-07.35.13:288][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Ring" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Ring.uasset" SILENT=true
+[2026.07.22-07.35.13:296][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Ring
+[2026.07.22-07.35.13:296][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-RingCA62E1674046105058CC02AF071AA57B.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Ring.uasset'
+[2026.07.22-07.35.13:297][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-RowBoat] ([1] browsable assets)...
+[2026.07.22-07.35.13:297][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-RowBoat]
+[2026.07.22-07.35.13:297][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-RowBoat" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-RowBoat.uasset" SILENT=true
+[2026.07.22-07.35.13:304][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-RowBoat
+[2026.07.22-07.35.13:304][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-RowBoatF12E321D4F05AA1942DDFD850D638FBA.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-RowBoat.uasset'
+[2026.07.22-07.35.13:305][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-RowBoatOars] ([1] browsable assets)...
+[2026.07.22-07.35.13:305][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-RowBoatOars]
+[2026.07.22-07.35.13:311][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-RowBoatOars
+[2026.07.22-07.35.13:311][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-RowBoatOars5C38A5C04C94E37B26EE1D8ECA4C7882.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-RowBoatOars.uasset'
+[2026.07.22-07.35.13:313][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Ruby] ([1] browsable assets)...
+[2026.07.22-07.35.13:313][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Ruby]
+[2026.07.22-07.35.13:313][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Ruby" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Ruby.uasset" SILENT=true
+[2026.07.22-07.35.13:320][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Ruby
+[2026.07.22-07.35.13:320][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-Ruby31BCB469444287845B9022BB9E1C7084.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Ruby.uasset'
+[2026.07.22-07.35.13:321][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-Skull] ([1] browsable assets)...
+[2026.07.22-07.35.13:321][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-Skull]
+[2026.07.22-07.35.13:321][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Props_001/PIRATE_PACK-Skull" FILE="../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Skull.uasset" SILENT=true
+[2026.07.22-07.35.13:328][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-Skull
+[2026.07.22-07.35.13:328][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SkullB268AF164B5BD867F50F06805A2C6318.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-Skull.uasset'
+[2026.07.22-07.35.13:329][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SkullKey] ([1] browsable assets)...
+[2026.07.22-07.35.13:329][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SkullKey]
+[2026.07.22-07.35.13:336][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-SkullKey
+[2026.07.22-07.35.13:336][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SkullKey5C4F82A04B8361EDECCA949C9583F989.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-SkullKey.uasset'
+[2026.07.22-07.35.13:339][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed] ([1] browsable assets)...
+[2026.07.22-07.35.13:339][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed]
+[2026.07.22-07.35.13:346][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed
+[2026.07.22-07.35.13:346][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SmallCreate-Closed7E331B3B457194F11AF372BE7AA7B430.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-SmallCreate-Closed.uasset'
+[2026.07.22-07.35.13:347][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open] ([1] browsable assets)...
+[2026.07.22-07.35.13:347][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open]
+[2026.07.22-07.35.13:354][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open
+[2026.07.22-07.35.13:354][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SmallCreate-Open98339AF543E0CE775F9C4CBC63133EEF.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-SmallCreate-Open.uasset'
+[2026.07.22-07.35.13:355][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Props_001/PIRATE_PACK-SmallScope] ([1] browsable assets)...
+[2026.07.22-07.35.13:355][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Props_001/PIRATE_PACK-SmallScope]
+[2026.07.22-07.35.13:361][408]LogSavePackage: Moving output files for package: /Game/Models/Props_001/PIRATE_PACK-SmallScope
+[2026.07.22-07.35.13:361][408]LogSavePackage: Moving '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/PIRATE_PACK-SmallScopeB5C5F1034A6B3CF9532B939ABCD5A94B.tmp' to '../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Content/Models/Props_001/PIRATE_PACK-SmallScope.uasset'
+[2026.07.22-07.35.13:404][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 335.350 ms (total: 4.81 sec)
+[2026.07.22-07.35.13:423][408]LogStall: Shutdown...
+[2026.07.22-07.35.13:423][408]LogStall: Shutdown complete.
+[2026.07.22-07.35.13:446][408]LogSlate: Window 'Sample_Pie - Unreal Editor' being destroyed
+[2026.07.22-07.35.13:447][408]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.07.22-07.35.13:870][408]LogContentValidation: Display: Starting to validate 27 assets
+[2026.07.22-07.35.13:870][408]LogContentValidation: Enabled validators:
+[2026.07.22-07.35.13:870][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.22-07.35.13:870][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.22-07.35.13:870][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.22-07.35.13:870][408]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.22-07.35.13:870][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.22-07.35.13:870][408]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.22-07.35.13:870][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-FishingDry Validating asset
+[2026.07.22-07.35.13:870][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-FishingRodStanding Validating asset
+[2026.07.22-07.35.13:870][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-FishingStandNet Validating asset
+[2026.07.22-07.35.13:870][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-GlassBottle Validating asset
+[2026.07.22-07.35.13:870][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-GlassBottleCover Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-GoldBar Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-GoldBar_Pile Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-GoldBar_Wall Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Gun Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Gun_001 Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-HookHand Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Key Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-LiqurBottle Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-LongScope Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-MoneyBag Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Mug Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Pearls Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-PegLeg Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Ring Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-RowBoat Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-RowBoatOars Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Ruby Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-Skull Validating asset
+[2026.07.22-07.35.13:871][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-SkullKey Validating asset
+[2026.07.22-07.35.13:873][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-SmallCreate-Closed Validating asset
+[2026.07.22-07.35.13:873][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-SmallCreate-Open Validating asset
+[2026.07.22-07.35.13:873][408]AssetCheck: /Game/Models/Props_001/PIRATE_PACK-SmallScope Validating asset
+[2026.07.22-07.35.13:874][408]Cmd: QUIT_EDITOR
+[2026.07.22-07.35.13:874][408]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.07.22-07.35.13:875][408]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/qouya/Documents/GitHub/Sample_Loop/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.22-07.35.13:878][409]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.07.22-07.35.13:879][409]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.07.22-07.35.13:879][409]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.07.22-07.35.13:880][409]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.07.22-07.35.13:880][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.22-07.35.13:880][409]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.07.22-07.35.13:887][409]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.07.22-07.35.13:887][409]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.07.22-07.35.13:887][409]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.07.22-07.35.13:905][409]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.07.22-07.35.13:905][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.22-07.35.13:905][409]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.22-07.35.13:905][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.22-07.35.13:905][409]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.07.22-07.35.13:905][409]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.07.22-07.35.13:908][409]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.07.22-07.35.14:148][409]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.07.22-07.35.14:148][409]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.07.22-07.35.14:148][409]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.07.22-07.35.14:148][409]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.07.22-07.35.14:148][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.07.22-07.35.14:150][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.07.22-07.35.14:157][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.07.22-07.35.14:157][409]LogAudio: Display: Audio Device Manager Shutdown
+[2026.07.22-07.35.14:164][409]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.07.22-07.35.14:164][409]LogExit: Preparing to exit.
+[2026.07.22-07.35.14:336][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.07.22-07.35.14:814][409]LogEditorDataStorage: Deinitializing
+[2026.07.22-07.35.14:976][409]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.07.22-07.35.15:029][409]LogExit: Editor shut down
+[2026.07.22-07.35.15:040][409]LogExit: Transaction tracking system shut down
+[2026.07.22-07.35.15:340][409]LogExit: Object subsystem successfully closed.
+[2026.07.22-07.35.15:360][409]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.07.22-07.35.15:515][409]LogMemoryProfiler: Shutdown
+[2026.07.22-07.35.15:515][409]LogNetworkingProfiler: Shutdown
+[2026.07.22-07.35.15:515][409]LoadingProfiler: Shutdown
+[2026.07.22-07.35.15:515][409]LogTimingProfiler: Shutdown
+[2026.07.22-07.35.15:516][409]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.07.22-07.35.15:516][409]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.07.22-07.35.16:050][409]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.07.22-07.35.16:069][409]RenderDocPlugin: plugin has been unloaded.
+[2026.07.22-07.35.16:069][409]LogNFORDenoise: NFORDenoise function shutting down
+[2026.07.22-07.35.16:109][409]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.07.22-07.35.16:109][409]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50BAE031-43AB-D4DF-6674-1382F022E7F4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e6be04b64789418dddbdc68e53fd0264%7C8c2ca6161a0342648bdc6ee351fd0a55%7Ce2128d29-8a1f-4958-aaac-2d5e87095230&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.07.22-07.35.16:136][409]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.07.22-07.35.16:143][409]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.07.22-07.35.16:143][409]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.07.22-07.35.16:143][409]LogPakFile: Destroying PakPlatformFile
+[2026.07.22-07.35.17:187][409]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.07.22-07.35.17:449][409]LogExit: Exiting.
+[2026.07.22-07.35.17:474][409]Log file closed, 07/22/26 00:35:17
